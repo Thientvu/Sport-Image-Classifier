@@ -1,3 +1,11 @@
 Data/
 
 Images/
+
+.DS_Store
+
+Sport-Image-Classifier.html
+
+Sport-Image-Classifier.pdf
+
+EfficientNetB3_weights.hdf5
